@@ -1,0 +1,7 @@
+.select2-container--default .select2-selection--single
+{
+    background-color: #fff !important;
+    border: 1px solid #d2d6de !important;
+    border-radius: 0px !important;
+    height: 34px !important;
+}

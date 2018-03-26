@@ -1,0 +1,87 @@
+.content-wrapper, .right-side, .main-footer{
+  margin-left: 0 !important;
+}
+
+.content-wrapper, .right-side {
+	background-image: url("../img/list.png");
+	background-repeat: repeat;
+}
+
+.bg-green, .callout.callout-success, .alert-success, .label-success, .modal-success .modal-body {
+	background-color: #046723 !important;
+}
+
+.ui-slider-tabs-list {
+	width: 100% !important;
+}
+
+table tr {
+  font-size: 18px;
+  font-family: helvetica;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td,
+.table-striped>tbody>tr:nth-child(odd)>th {
+  background-color: #E9E9E9;
+}
+.ui-slider-tabs-content-container {
+	height: 580px !important;
+}
+
+#contain {
+  height: 550px;
+  overflow-y: hidden;
+}
+
+#contain2 {
+  height: 550px;
+  overflow-y: hidden;
+}
+
+#contain3 {
+  height: 550px;
+  overflow-y: hidden;
+}
+
+#contain4 {
+  height: 550px;
+  overflow-y: hidden;
+}
+
+#contain5 {
+  height: 550px;
+  overflow-y: hidden;
+}
+
+#contain6 {
+  height: 550px;
+  overflow-y: hidden;
+}
+
+#contain7 {
+  height: 550px;
+  overflow-y: hidden;
+}
+
+#table_scroll {
+  width: 100%;
+  margin-top: 550px;
+  margin-bottom: 550px;
+  border-collapse: collapse;
+}
+#table_scroll thead th {
+  padding: 10px;
+  background-color: #046723;
+  color: #fff;
+}
+#mySliderTabsContainer{
+  height: 610px;
+}
+#tabs{
+  height: 610px;
+}
+/* #table_scroll tbody td {
+  padding: 10px;
+  background-color: #CAE0C1;
+  color: #000000;
+} */
